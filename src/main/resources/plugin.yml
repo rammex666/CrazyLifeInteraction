@@ -1,0 +1,4 @@
+name: CrazyLifeInteraction
+version: '${project.version}'
+main: org.rammex.crazylifeinteraction.CrazyLifeInteraction
+api-version: 1.19
